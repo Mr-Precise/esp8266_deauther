@@ -406,7 +406,7 @@
 #endif /* ifndef RANDOM_TX */
 
 #ifndef ATTACK_TIMEOUT
-  #define ATTACK_TIMEOUT 600
+  #define ATTACK_TIMEOUT 0
 #endif /* ifndef ATTACK_TIMEOUT */
 
 #ifndef DEAUTHS_PER_TARGET
